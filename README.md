@@ -212,7 +212,7 @@ Primary tuning groups in code:
 From this directory:
 
 ```bash
-python vehicle_control_traffic.py
+python main.py
 ```
 
 Recommended order:
